@@ -3,19 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DistributeCandies", "LeetCode.DistributeCandies\LeetCode.DistributeCandies.csproj", "{E66030BC-4073-49E9-8F03-57A04D95A5AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.DistributeCandies", "LeetCode.DistributeCandies\LeetCode.DistributeCandies.csproj", "{E66030BC-4073-49E9-8F03-57A04D95A5AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TwoSum", "LeetCode.TwoSum\LeetCode.TwoSum.csproj", "{FD37D617-2285-4640-9F1B-6A2668311B3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.TwoSum", "LeetCode.TwoSum\LeetCode.TwoSum.csproj", "{FD37D617-2285-4640-9F1B-6A2668311B3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromeNumber", "LeetCode.PalindromeNumber\LeetCode.PalindromeNumber.csproj", "{8215E7B4-6286-4937-9ABC-705865D2D1B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PalindromeNumber", "LeetCode.PalindromeNumber\LeetCode.PalindromeNumber.csproj", "{8215E7B4-6286-4937-9ABC-705865D2D1B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RomanToInteger", "LeetCode.RomanToInteger\LeetCode.RomanToInteger.csproj", "{6B721314-29E3-4CCB-B8E9-9AD636157664}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RomanToInteger", "LeetCode.RomanToInteger\LeetCode.RomanToInteger.csproj", "{6B721314-29E3-4CCB-B8E9-9AD636157664}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestCommonPrefix", "LeetCode.LongestCommonPrefix\LeetCode.LongestCommonPrefix.csproj", "{22CB1E18-C05D-48A3-B43D-4098079FC924}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LongestCommonPrefix", "LeetCode.LongestCommonPrefix\LeetCode.LongestCommonPrefix.csproj", "{22CB1E18-C05D-48A3-B43D-4098079FC924}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ValidParentheses", "LeetCode.ValidParentheses\LeetCode.ValidParentheses.csproj", "{9CC70A00-6FD9-45B4-8704-4F3F73A72053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ValidParentheses", "LeetCode.ValidParentheses\LeetCode.ValidParentheses.csproj", "{9CC70A00-6FD9-45B4-8704-4F3F73A72053}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeTwoSortedList", "LeetCode.MergeTwoSortedList\LeetCode.MergeTwoSortedList.csproj", "{CC81A19A-13B0-4EDF-BAEF-64DC098542C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MergeTwoSortedList", "LeetCode.MergeTwoSortedList\LeetCode.MergeTwoSortedList.csproj", "{CC81A19A-13B0-4EDF-BAEF-64DC098542C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeStringAlternately", "LeetCode.MergeStringAlternately\LeetCode.MergeStringAlternately.csproj", "{AA638180-78E4-4AD5-A2AB-34BFFF52FBF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveDuplicatesFromSortedArray", "LeetCode.RemoveDuplicatesFromSortedArray\LeetCode.RemoveDuplicatesFromSortedArray.csproj", "{F4162F79-D9FC-4A26-9BBA-D9C2DD6143D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveElement", "LeetCode.RemoveElement\LeetCode.RemoveElement.csproj", "{82F3930D-B4E4-47F6-A544-143D19D8A650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindIndexFirstOcurrenceInString", "LeetCode.FindIndexFirstOcurrenceInString\LeetCode.FindIndexFirstOcurrenceInString.csproj", "{49A300F8-6DD2-415B-AEE3-0A8925167D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SearchInsertPosition", "LeetCode.SearchInsertPosition\LeetCode.SearchInsertPosition.csproj", "{FF7A92B0-9A96-47CB-A311-6F8050D3F6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LengthLastWord", "LeetCode.LengthLastWord\LeetCode.LengthLastWord.csproj", "{086238A2-06F1-4F79-BEAF-D26A2900F1EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +63,30 @@ Global
 		{CC81A19A-13B0-4EDF-BAEF-64DC098542C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC81A19A-13B0-4EDF-BAEF-64DC098542C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC81A19A-13B0-4EDF-BAEF-64DC098542C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA638180-78E4-4AD5-A2AB-34BFFF52FBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA638180-78E4-4AD5-A2AB-34BFFF52FBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA638180-78E4-4AD5-A2AB-34BFFF52FBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA638180-78E4-4AD5-A2AB-34BFFF52FBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4162F79-D9FC-4A26-9BBA-D9C2DD6143D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4162F79-D9FC-4A26-9BBA-D9C2DD6143D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4162F79-D9FC-4A26-9BBA-D9C2DD6143D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4162F79-D9FC-4A26-9BBA-D9C2DD6143D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F3930D-B4E4-47F6-A544-143D19D8A650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F3930D-B4E4-47F6-A544-143D19D8A650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F3930D-B4E4-47F6-A544-143D19D8A650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F3930D-B4E4-47F6-A544-143D19D8A650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A300F8-6DD2-415B-AEE3-0A8925167D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A300F8-6DD2-415B-AEE3-0A8925167D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A300F8-6DD2-415B-AEE3-0A8925167D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A300F8-6DD2-415B-AEE3-0A8925167D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7A92B0-9A96-47CB-A311-6F8050D3F6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7A92B0-9A96-47CB-A311-6F8050D3F6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7A92B0-9A96-47CB-A311-6F8050D3F6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7A92B0-9A96-47CB-A311-6F8050D3F6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086238A2-06F1-4F79-BEAF-D26A2900F1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086238A2-06F1-4F79-BEAF-D26A2900F1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086238A2-06F1-4F79-BEAF-D26A2900F1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086238A2-06F1-4F79-BEAF-D26A2900F1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
